@@ -1,5 +1,5 @@
 body {
-	background-color: black;
+	background-color: #C0C0C0;
 }
 
 #console {
@@ -15,12 +15,12 @@ h{
    
 }
 a {
-	color:blue;
+	color:#808080 ;
 	text-decoration: none;
 }
 
 #a {
-	color: blue;
+	color:blue;
 }
 
 #c {
