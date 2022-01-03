@@ -1,6 +1,6 @@
 <span id="a">PRAVEEN</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->PRAVEEN sv<br/><br/>
 Hey There! I am PRAVEEN sv.
-<p>I am currently pursuing my Bachelor's in Computer Science and Engineering at K.S.Rangasamy College of Technology. I am doing YouTube  as my Hobby. My area of Interest are Web Application Hacking and web 8developer.</p>
+<p>I am currently pursuing my Bachelor's in Computer Science and Engineering at K.S.Rangasamy College of Technology. I am doing YouTube  as my Hobby. My area of Interest are Web Application Hacking and web developer</p>
 <hr>
 <span id="a">PRAVEEN</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->contact.txt<br/><br/>
 You can visit my other profiles, here: <br> <a href="https://the_user_is_missing">InstaGram</a> .</p>
